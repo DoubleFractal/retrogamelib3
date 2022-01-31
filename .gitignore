@@ -1,0 +1,6 @@
+**/pycache
+**/build
+**/dist
+*.pyc
+**/*.egg**
+
